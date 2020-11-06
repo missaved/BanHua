@@ -6,10 +6,15 @@
 
 
 
-var aa = importMods('mod/string.js')
+// var aa = importMods('mod/string.js')
 
-log(aa.randomStr(null, 10));
+// log(aa.randomStr(null, 10));
+// while (true) {
+//     log('1111');
+//     sleep(1000);
+// }
+
 while (true) {
-    log('1111');
-    sleep(1000);
+    toastLog("13212312123")
+    sleep(1500)
 }
